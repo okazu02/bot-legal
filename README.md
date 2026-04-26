@@ -1,0 +1,2 @@
+# bot-legal
+botの規約
